@@ -1,0 +1,3 @@
+streamlit==1.19.0
+streamlit-ace==0.1.1
+streamlit-extras==0.2.7
